@@ -1,0 +1,3 @@
+class CareTaker {
+  Memento memento;
+}
